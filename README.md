@@ -4,7 +4,7 @@
 
 **Source Code Availability:**
 
-This repository currently contains the compiled executable for `udp-floor-flood`. The full source code will be made publicly available on **January 1st, 2026**.
+This repository currently contains the compiled executable for `udp-floor-flood`. The full source code will be made publicly available on by **January 1st, 2026**.
 
 **Why the Delay?**
 
