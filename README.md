@@ -9,11 +9,5 @@ This source code is publicly available and licensed for your use.  You are free 
 
 # BTW 
 
-**Run the following command** to install the necessary packages:
-
-     
-    pip install -r requirements.txt
-    
-
 
 Have fun and happy coding!
