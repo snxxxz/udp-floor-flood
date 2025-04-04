@@ -9,6 +9,6 @@ This source code is publicly available and licensed for your use.  You are free 
 
 # BTW 
 
-if main doesnt work, please use **2.py**
+if main doesnt work, please use **2.py** (i recommended **2.py**)
 
 Have fun and happy coding!
